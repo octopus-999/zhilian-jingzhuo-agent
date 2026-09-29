@@ -8,7 +8,7 @@
 
 部署在 Gitee Pages，直接点击链接即可使用（无需下载安装任何东西）：
 
-**https://<你的Gitee用户名>.gitee.io/zhilian-jingzhuo-agent/**
+**https://outopus.gitee.io/zhilian-jingzhuo-agent/**
 
 ## 更新线上网页
 

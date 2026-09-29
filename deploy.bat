@@ -37,6 +37,6 @@ popd
 
 git worktree remove .deploy-tmp --force
 echo.
-echo 完成！网页链接: https://^<你的Gitee用户名^>.gitee.io/zhilian-jingzhuo-agent/
+echo 完成！网页链接: https://outopus.gitee.io/zhilian-jingzhuo-agent/
 echo （Gitee Pages 更新有缓存，若未生效请到仓库「服务 -^> Gitee Pages」点「更新」）
 pause
