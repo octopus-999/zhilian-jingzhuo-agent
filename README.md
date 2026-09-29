@@ -4,6 +4,16 @@
 
 一个基于 React + TypeScript + Vite + Tailwind CSS 构建的 AI Agent 驱动桌面清洁智能体演示系统，完整模拟「感知 → 决策 → 执行 → 质检」闭环流程。
 
+## 在线访问
+
+部署在 Gitee Pages，直接点击链接即可使用（无需下载安装任何东西）：
+
+**https://<你的Gitee用户名>.gitee.io/zhilian-jingzhuo-agent/**
+
+## 更新线上网页
+
+修改代码后，双击运行 `deploy.bat` 即可自动构建并发布最新版本。
+
 ## 技术栈
 
 - **React 18** + **TypeScript**
