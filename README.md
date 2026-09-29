@@ -6,9 +6,9 @@
 
 ## 在线访问
 
-部署在 Gitee Pages，直接点击链接即可使用（无需下载安装任何东西）：
+部署在 GitHub Pages，直接点击链接即可使用（无需下载安装任何东西）：
 
-**https://outopus.gitee.io/zhilian-jingzhuo-agent/**
+**https://octopus-999.github.io/zhilian-jingzhuo-agent/**
 
 ## 更新线上网页
 
